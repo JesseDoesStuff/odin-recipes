@@ -2,3 +2,9 @@ body {
     background-color: greenyellow;
     font-family: "Arial Narrow", Arial, sans-serif;
 }
+
+a {
+    color: #454545;
+    font-weight: bold;
+    background-color: #7ad327;
+}
